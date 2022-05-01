@@ -1,4 +1,4 @@
-package math
+package goconst
 
 const MaxUint = ^uint(0)
 const MinUint = 0
