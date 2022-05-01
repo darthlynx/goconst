@@ -1,3 +1,3 @@
-module github.com/darthlynx/go-constants/math
+module github.com/darthlynx/go-constants
 
 go 1.18
