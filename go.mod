@@ -1,3 +1,3 @@
-module github.com/darthlynx/go-constants.git
+module github.com/darthlynx/go-constants
 
 go 1.18
